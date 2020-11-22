@@ -1,0 +1,63 @@
+﻿Apple
+Microsoft
+Facebook
+Amazon
+Intel
+Nvidia
+Chính phủ Việt Nam
+Chính phủ Hoa Kỳ
+Chính phủ Anh
+Liên đoàn bóng đá Việt Nam
+Quĩ tiền tệ quốc tế IMF
+Quĩ nhi đồng liên hợp quốc UNICEF
+Trường đại học Bách Khoa Hà Nội
+Trường đại học Xây Dựng
+Trường đại học Kinh tế Quốc dân
+Trường đại học Havard
+Câu lạc bộ Manchester United
+Đội tuyển bóng đá Việt Nam
+Ủy ban nhân dân thành phố Hà Nội
+Ủy ban nhân dân thành phố Đà Nẵng
+Ủy ban nhân dân thành phố Bắc Ninh
+Ủy ban nhân dân thành phố Hồ Chí Minh
+Hội nhà văn Việt Nam
+Hội nhà báo Việt Nam
+Viện Công nghệ thông tin và Truyền thông
+Viện Cơ khí
+Viện Ngoại ngữ
+Viện Kinh tế và Quản lí
+Phòng đào tạo
+Ban nhạc Linkin Part
+Nhóm nhạc EXID
+Nhóm nhạc LIME
+Đội tình nguyện viện Công nghệ thông tin và Truyền thông
+Đội tình nguyện viện Cơ khí
+Apple
+Facebook
+Tổ chức Y tế Thế giới
+Hà Nội
+Thành phố Hồ Chí Minh
+Việt Nam
+Tiki
+Shopee
+Alibaba
+Adidas
+Amazon
+Samsung
+Unilever
+Tổ chức thương mại thế giới
+Hội người mù Việt Nam
+Hội sinh viên Việt Nam
+Hội người cao tuổi
+Pepsico
+Coca-Cola
+Vingroup
+Đại học Bách Khoa Hà Nội
+Dell
+Ngân hàng Nhà nước Việt Nam
+Điện cơ Thống nhất
+Domino's Pizza
+Nhà xuất bản Trẻ
+Đảng Cộng sản Việt Nam
+Đoàn Thanh niên Cộng sản Hồ Chí Minh
+Bệnh viện Bạch Mai
